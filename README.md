@@ -7,8 +7,7 @@ Primarily working with React and Vue; backend and serverless APIs on AWS when ne
 ## 🧰 Tech Stack
 - Languages: TypeScript, JavaScript, Java, Go  
 - Frontend: React, Vue  
-- Backend: Node.js  
-- Cloud / Serverless: AWS (Lambda, API Gateway, DynamoDB, CDK)  
+- Backend / Serverless (supporting): Node.js, AWS Lambda, API Gateway, DynamoDB, CDK
 - Databases: DynamoDB, PostgreSQL  
 - Blockchain / SDKs: Soroban SDK (Stellar), Cosmos-SDK
 
