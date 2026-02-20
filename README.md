@@ -12,8 +12,9 @@ Primarily working with React and Vue; backend and serverless APIs on AWS when ne
 - Blockchain / SDKs: Soroban SDK (Stellar), Cosmos-SDK
 
 ## 🚀 Projects
-- **Orbis Citybuild (Hytale)** – Owner/Main developer
+- **WYND DAO** – Former developer
 - **Phoenix Hub (Stellar Chain)** – Former developer
+- **Orbis Citybuild (Hytale)** – Owner/Main developer
 
 ## 🌍 Languages
 - German (native)  
