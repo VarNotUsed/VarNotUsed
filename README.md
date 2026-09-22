@@ -1,8 +1,8 @@
 # Hi, I’m Douglas 👋
 
 ## 👨‍💻 About me
-Frontend-focused TypeScript developer.  
-Primarily working with React and Vue; backend and serverless APIs on AWS when needed.
+Fullstack AWS/TypeScript developer. 
+Serverless backends and APIs, React and Vue on the frontend.
 
 ## 🧰 Tech Stack
 - Languages: TypeScript, JavaScript, Java, Go  
