@@ -14,7 +14,6 @@ Serverless backends and APIs, React and Vue on the frontend.
 ## 🚀 Projects
 - **WYND DAO** – Former developer  
 - **[Phoenix Hub](https://www.phoenix-hub.io/) (Stellar Chain)** – Former developer  
-- **[Orbis Citybuild](https://playorbis.io) (Hytale)** – Owner/Main developer
 
 ## 🌍 Languages
 - German (native)  
